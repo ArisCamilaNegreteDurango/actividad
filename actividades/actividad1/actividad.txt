@@ -1,0 +1,6 @@
+Para realizar una base de datos de un campeonato se requiere que 
+Lo equipos deben tener información como: numero de equipo, nombre del equipo, teléfono, dirección, color y numero de grupo.
+El jugador debe tener un nombre, número, teléfono, nombre del equipo. De igual forma el árbitro debe tener nombre, dirección, teléfono, número de árbitros 
+Por cada partido realizado se debe tener en cuenta la fecha, cancha, arbitro, equipo1, equipo2, resultado, faltas.
+La cancha lugar y fecha 
+Cada falta se debe registrar como número de falta, jugador que la realiza, tarjeta amarilla y tarjeta roja.
