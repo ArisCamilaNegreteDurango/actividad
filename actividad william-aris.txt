@@ -1,0 +1,11 @@
+Para realizar una base de datos de un campeonato se requiere que éste tenga un id, lugar, nombre y fecha, luego 
+Los equipos deben tener información como: id, nombre del equipo, dirección, color y grupo, cada equipo tambien debe tener
+un tecnico el cual debe llevar un id, nombre, apellido y telefono
+El jugador debe tener un id, nombre,apellido, número. De igual forma el árbitro debe tener id, nombre, apellido,teléfono, 
+Por cada partido realizado se debe tener en cuenta una id, fecha, versus.
+para el estadio sòlo se requiere un id,nombre y direccion.
+Cada falta se debe registrar con un id y penalidad.
+
+
+
+
